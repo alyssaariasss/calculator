@@ -22,7 +22,7 @@ body {
 }
 
 .screen {
-  height: 5rem;
+  height: 6rem;
   background: #ecf0f3;
   box-shadow: inset -5px -5px 12px #ffffff,
     inset 5px 5px 12px rgba(0, 0, 0, 0.16);
